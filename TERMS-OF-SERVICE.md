@@ -1,3 +1,4 @@
+{% raw %}
 # Terms of Service
 
 ## Data Disclosure
@@ -31,3 +32,4 @@ Smart iFrame is provided free of charge as a utility. You may use it as-is for a
 ## No Warranty / Liability
 
 This software is provided "as is", without warranty of any kind, express or implied. Hubbub Studios accepts no liability for any damages, data loss, or interruption of service arising from the use or inability to use this app. Use at your own risk.
+{% endraw %}
