@@ -1,3 +1,4 @@
+{% raw %}
 # Smart iFrame (Zendesk App)
 
 Easily embed a 3rd party application or website into your Zendesk agent workspace just by specifying the URL.
@@ -97,3 +98,5 @@ If you are attempting to configure Smart iFrame with a 3rd party vendor applicat
 If you or your company owns the website you are trying to iFrame, you may need to speak with your system administrator about disabling restrictive controls that are set via the HTTP header `X-Frame-Options`
 
 If `X-Frame-Options` is set to `DENY` or `SAMEORIGIN` (and it doesn't match the criteria), the browser will block the framing.
+
+{% endraw %}
